@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <div className={darkMode ? "dark" : " "}>
       <Head>
-        <title>Hans Figo Portofolio</title>
+        <title>Bimo Portofolio</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
         
